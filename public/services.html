@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Services web</title>
+</head>
+
+<body>
+    <h1>Services</h1>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.js" integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE=" crossorigin="anonymous"></script>
+
+    <ul class="item-list"></ul>
+
+    <script>
+        $(function() {
+
+            $.get('/adherents?limit=30', appendToList);
+            $.get('/entrees?limit=30', appendToList);
+            $.get('/meals?limit=30', appendToList);
+            $.get('/desserts?limit=30', appendToList);
+
+            function appendToList(items) {
+                $('.item-list').append(items.map(item => `<li>${item.id} ${item.name}</li>`));
+            }
+
+        });
+    </script>
+</body>
+
+</html>

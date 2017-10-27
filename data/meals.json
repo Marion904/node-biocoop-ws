@@ -1,0 +1,31 @@
+[{
+        "name": "Tofu pané",
+        "description": "Tofu pané arome Nature, Curry ou légumes",
+        "price": 2.65,
+        "images": []
+    },
+    {
+        "name": "3 nems",
+        "description": "Nems nature, crevette",
+        "price": 2.65,
+        "images": []
+    },
+    {
+        "name": "Tortilla",
+        "description": "Tortilla du chef",
+        "price": 2.95,
+        "images": []
+    },
+    {
+        "name": "Pizza",
+        "description": "Lardons-champigons / 3 fromages / Epinard-chèvre-PdT",
+        "price": 2.65,
+        "images": []
+    },
+    {
+        "name": "3 Samossa",
+        "description": "Samossa au boeuf",
+        "price": 2.80,
+        "images": []
+    }
+]

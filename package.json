@@ -1,0 +1,27 @@
+{
+    "name": "node-biocoop-ws",
+    "version": "1.0.0",
+    "description": "serveur node du TP angular JS",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "node test.js"
+    },
+    "dependencies": {
+        "express": "4.15.2"
+    },
+    "devDependencies": {
+        "request": "^2.81.0",
+        "tape": "^4.7.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/CfrancCyrille/node-biocoop-ws"
+    },
+    "keywords": [
+        "node",
+        "heroku",
+        "express"
+    ],
+    "license": "MIT"
+}

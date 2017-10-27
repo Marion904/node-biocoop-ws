@@ -1,0 +1,37 @@
+[{
+        "name": "Blé & lentilles",
+        "description": "Salade au blé & lentilles",
+        "price": 1.90,
+        "images": []
+    },
+    {
+        "name": "2 lentilles",
+        "description": "Salade aux 2 lentilles",
+        "price": 1.90,
+        "images": []
+    },
+    {
+        "name": "Taboulé",
+        "description": "Taboulé bio",
+        "price": 1.90,
+        "images": []
+    },
+    {
+        "name": "Carottes fraiches rapées",
+        "description": "Salade de carottes fraiches rapées",
+        "price": 1.90,
+        "images": []
+    },
+    {
+        "name": "Choux Japonais",
+        "description": "Salade de choux Japonais",
+        "price": 1.90,
+        "images": []
+    },
+    {
+        "name": "Choux, carotte et raisins secs",
+        "description": "Salade de choux, carotte et raisins secs",
+        "price": 1.90,
+        "images": []
+    }
+]
