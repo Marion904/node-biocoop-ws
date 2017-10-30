@@ -16,12 +16,20 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/CfrancCyrille/node-biocoop-ws"
+        "url": "https://github.com/Marion904/node-biocoop-ws"
     },
+
+
+
     "keywords": [
         "node",
         "heroku",
+        "cors",
         "express"
     ],
-    "license": "MIT"
+    "license": "MIT",
+
+    "engines": {
+    "node": "4.2.6"
+  }
 }
