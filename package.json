@@ -5,8 +5,7 @@
     "main": "index.js",
     "scripts": {
         "start": "node index.js",
-        "test": "node test.js",
-         "postinstall": "bower install && grunt build"
+        "test": "node test.js"
     },
     "dependencies": {
         "express": "4.15.2"
