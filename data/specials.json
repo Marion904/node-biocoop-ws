@@ -10,7 +10,7 @@
 	"deserts": ["Yahourt", "Fruit"],
 	"desertsImages":["images/yahourt.jpeg","images/fruits.jpeg"],
 	"drinks":["Eau DETOX", "Thé glacé"],
-	"drinksImages:["images/eau.jpeg","images/the.jpeg"],
+	"drinksImages":["images/eau.jpeg","images/the.jpeg"],
 	"quantity": 5000,
 	"isAvailable":true},
 	
@@ -25,7 +25,7 @@
 	"deserts": ["Ze dessert", "Fromage"],
 	"desertsImages":["images/dessert.jpeg","images/fromage.jpeg"],
 	"drinks":["Eau DETOX", "Thé glacé"],
-	"drinksImages:["images/eau.jpeg","images/the.jpeg"],
+	"drinksImages":["images/eau.jpeg","images/the.jpeg"],
 	"quantity": 5000,
 	"isAvailable":true}
 ]
