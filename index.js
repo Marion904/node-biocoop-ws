@@ -58,6 +58,9 @@ for (var index = 0; index < desserts.length; index++) {
     desserts[index].category = CATEGORIES[0];
 }
 
+var specials = JSON.parse(require('fs').readFileSync('./data/specials.json', 'utf8'));
+
+
 const STATUS = [{
         status: "New",
         id: 0
@@ -131,5 +134,15 @@ app.get('/entrees', function(request, response) {
         response.json(entrees.slice(0, limit));
     } else {
         response.json(entrees);
+    }
+});
+
+app.get('/specials', function(request, response) {
+    var limit = request.query.limit;
+    console.log('/specials#' + specials.length);
+    if (limit != 0) {
+        response.json(specials.slice(0, limit));
+    } else {
+        response.json(specials);
     }
 });
