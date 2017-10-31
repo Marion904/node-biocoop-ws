@@ -20,7 +20,7 @@
 	"price": 7.95,
 	"starters": "Une belle salde",
 	"starterImages": "images/salade.jpeg",
-	"mains": ["Risotto","un truc avec ou sans gluten"],
+	"mains": ["Risotto","Vegan delight"],
 	"mainsImages":["images/risotto.jpeg","images/machin.jpeg"],
 	"deserts": ["Ze dessert", "Fromage"],
 	"desertsImages":["images/dessert.jpeg","images/fromage.jpeg"],
