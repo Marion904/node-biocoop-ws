@@ -18,7 +18,7 @@
 	"name": "Ze Menu",
 	"description": "Pour les grosses faims",
 	"price": 7.95,
-	"starters": "Une belle salde",
+	"starters": "Une belle salade",
 	"starterImages": "images/salade.jpeg",
 	"mains": ["Risotto","Vegan delight"],
 	"mainsImages":["images/risotto.jpeg","images/machin.jpeg"],
