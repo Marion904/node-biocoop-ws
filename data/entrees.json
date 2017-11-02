@@ -33,7 +33,8 @@
             "price": 1.90,
             "images": []
         }]
-    },{
+    },
+    {
         "category": "Plats",
         "id":2,
         "choices": [{
@@ -62,7 +63,8 @@
                 "price": 2.80,
                 "images": []
             }]
-    },{
+    },
+    {
         "category": "Desserts",
         "id":3,
         "choices": [{
@@ -120,4 +122,4 @@
             }]
 
     }
-];
+]

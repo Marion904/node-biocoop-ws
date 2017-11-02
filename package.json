@@ -9,7 +9,7 @@
     },
     "dependencies": {
         "express": "4.15.2",
-        "cors":""
+        "cors": ""
     },
     "devDependencies": {
         "request": "^2.81.0",
@@ -19,9 +19,6 @@
         "type": "git",
         "url": "https://github.com/Marion904/node-biocoop-ws"
     },
-
-
-
     "keywords": [
         "node",
         "heroku",
@@ -29,8 +26,7 @@
         "express"
     ],
     "license": "MIT",
-
     "engines": {
-    "node": "4.2.6"
-  }
+        "node": "4.2.6"
+    }
 }
