@@ -6,9 +6,10 @@
         "avatar": "",
         "gender": "M",
         "preferences": "",
-        "birsthday": "",
+        "birthday": "",
         "canceled": 0,
-        "email": "leonard.legendre@igs-toulouse.fr"
+        "email": "leonard.legendre@igs-toulouse.fr",
+    "avatar":"images/leo.png"
     },
     {
         "id": 1,
@@ -18,9 +19,10 @@
         "avatar": "",
         "gender": "F",
         "preferences": "",
-        "birsthday": "",
+        "birthday": "",
         "canceled": 0,
-        "email": "alexandra.gasmy@igs-toulouse.fr"
+        "email": "alexandra.gasmy@igs-toulouse.fr",
+    "avatar":"images/jeanMichel.png"
     },
     {
         "id": 2,
@@ -30,9 +32,10 @@
         "avatar": "",
         "gender": "F",
         "preferences": "",
-        "birsthday": "",
+        "birthday": "",
         "canceled": 0,
-        "email": "beatrice.schmuck@igs-toulouse.fr"
+        "email": "beatrice.schmuck@igs-toulouse.fr",
+    "avatar":"images/framboise.png"
     },
     {
         "id": 3,
@@ -42,9 +45,10 @@
         "avatar": "",
         "gender": "M",
         "preferences": "",
-        "birsthday": "",
+        "birthday": "",
         "canceled": 0,
-        "email": "cedric.debelont@igs-toulouse.fr"
+        "email": "cedric.debelont@igs-toulouse.fr",
+    "avatar":"images/jeanMichel.png"
     },
     {
         "id": 4,
@@ -54,9 +58,10 @@
         "avatar": "",
         "gender": "M",
         "preferences": "",
-        "birsthday": "",
+        "birthday": "",
         "canceled": 0,
-        "email": "didier.deflandre@igs-toulouse.fr"
+        "email": "didier.deflandre@igs-toulouse.fr",
+    "avatar":"images/leo.png"
     },
     {
         "id": 5,
@@ -66,9 +71,10 @@
         "avatar": "",
         "gender": "M",
         "preferences": "",
-        "birsthday": "",
+        "birthday": "",
         "canceled": 0,
-        "email": "emilie.ambrosino@igs-toulouse.fr"
+        "email": "emilie.ambrosino@igs-toulouse.fr",
+    "avatar":"images/framboise.png"
     },
     {
         "id": 6,
@@ -78,9 +84,10 @@
         "avatar": "",
         "gender": "F",
         "preferences": "",
-        "birsthday": "",
+        "birthday": "",
         "canceled": 0,
-        "email": "fanny.monnod-degrange@igs-toulouse.fr"
+        "email": "fanny.monnod-degrange@igs-toulouse.fr",
+    "avatar":"images/framboise.png"
     },
     {
         "id": 7,
@@ -90,9 +97,10 @@
         "avatar": "",
         "gender": "M",
         "preferences": "",
-        "birsthday": "",
+        "birthday": "",
         "canceled": 0,
-        "email": "gerald.idrissa@igs-toulouse.fr"
+        "email": "gerald.idrissa@igs-toulouse.fr",
+    "avatar":"images/leo.png"
     },
     {
         "id": 8,
@@ -102,9 +110,10 @@
         "avatar": "",
         "gender": "F",
         "preferences": "",
-        "birsthday": "",
+        "birthday": "",
         "canceled": 0,
-        "email": "henriette.delagallerie@igs-toulouse.fr"
+        "email": "henriette.delagallerie@igs-toulouse.fr",
+    "avatar":"images/jeanMichel.png"
     },
     {
         "id": 9,
@@ -114,8 +123,9 @@
         "avatar": "",
         "gender": "F",
         "preferences": "",
-        "birsthday": "",
+        "birthday": "",
         "canceled": 0,
-        "email": "isabelle.legendre@igs-toulouse.fr"
+        "email": "isabelle.legendre@igs-toulouse.fr",
+    "avatar":"images/framboise.png"
     }
 ]
