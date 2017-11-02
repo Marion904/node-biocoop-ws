@@ -1,130 +1,123 @@
 [
     {
-        category: 'Entrées',
-        id:1,
-        choices: [{
-          name: "Blé & lentilles",
-          description: "Salade au blé & lentilles",
-          price: 1.90,
-          images: []
+        "category": "Entrées",
+        "id":1,
+        "choices": [{
+            "name": "Blé & lentilles",
+            "description": "Salade au blé & lentilles",
+            "price": 1.90,
+            "images": []
         }, {
-            name: "2 lentilles",
-            description: "Salade aux 2 lentilles",
-            price: 1.90,
-            images: []
+            "name": "2 lentilles",
+            "description": "Salade aux 2 lentilles",
+            "price": 1.90,
+            "images": []
         }, {
-            name: "Taboulé",
-            description: "Taboulé bio",
-            price: 1.90,
-            images: []
+            "name": "Taboulé",
+            "description": "Taboulé bio",
+            "price": 1.90,
+            "images": []
         }, {
-            name: "Carottes fraiches rapées",
-            description: "Salade de carottes fraiches rapées",
-            price: 1.90,
-            images: []
+            "name": "Carottes fraiches rapées",
+            "description": "Salade de carottes fraiches rapées",
+            "price": 1.90,
+            "images": []
         }, {
-            name: "Choux Japonais",
-            description: "Salade de choux Japonais",
-            price: 1.90,
-            images: []
+            "name": "Choux Japonais",
+            "description": "Salade de choux Japonais",
+            "price": 1.90,
+            "images": []
         }, {
-            name: "Choux, carotte et raisins secs",
-            description: "Salade de choux, carotte et raisins secs",
-            price: 1.90,
-            images: []
+            "name": "Choux, carotte et raisins secs",
+            "description" : "Salade de choux, carotte et raisins secs",
+            "price": 1.90,
+            "images": []
         }]
-    },
-    {
-        category: 'Plats',
-        id:2,
-        choices: [{
-        name: "Tofu pané",
-        description: "Tofu pané arome Nature, Curry ou légumes",
-        price: 2.65,
-        images: []
-    },
-    {
-        name: "3 nems",
-        description: "Nems nature, crevette",
-        price: 2.65,
-        images: []
-    },
-    {
-        name: "Tortilla",
-        description: "Tortilla du chef",
-        price: 2.95,
-        images: []
-    },
-    {
-        name: "Pizza",
-        description: "Lardons-champigons / 3 fromages / Epinard-chèvre-PdT",
-        price: 2.65,
-        images: []
-    },
-    {
-        name: "3 Samossa",
-        description: "Samossa au boeuf",
-        price: 2.80,
-        images: []
-    }]
-    },
-    {
-        category: 'Désserts',
-        id:3,
-        choices: [{
-        name: "GatO chOcO",
-        description: "Ze gateau au chocolat",
-        price: 3.20,
-        images: []
-    },
-    {
-        name: "Salade de fruits à la mangue",
-        description: "Ze salade de fruits avec un coulis mangue",
-        price: 2.90,
-        images: []
-    },
-    {
-        name: "Tiramisu sans alcool",
-        description: "Ze tiramizu mais le patissier à bu l'amareto",
-        price: 3.00,
-        images: []
-    },
-    {
-        name: "Yaourt nature",
-        description: "Yaourt nature Bio",
-        price: 1.25,
-        images: []
-    },
-    {
-        name: "Yaourt de lait de chèvre",
-        description: "Yaourt nature au lait de chèvre Bio",
-        price: 1.50,
-        images: []
-    },
-    {
-        name: "Yaourt aux fruits",
-        description: "Yaourt aux fruits Bio",
-        price: 1.70,
-        images: []
-    },
-    {
-        name: "Yaourt chocolat au soja",
-        description: "Yaourt au soja arome chocolat Bio",
-        price: 1.60,
-        images: []
-    },
-    {
-        name: "Gouda au pesto",
-        description: "Gouda au pesto",
-        price: 0.50,
-        images: []
-    },
-    {
-        name: "Tomme des pyrénées",
-        description: "Tomme des pyrénées",
-        price: 0.45,
-        images: []
-    }]
+    },{
+        "category": "Plats",
+        "id":2,
+        "choices": [{
+            "name": "Tofu pané",
+            "description": "Tofu pané arome Nature, Curry ou légumes",
+            "price": 2.65,
+            "images": []
+        }, {
+                "name": "3 nems",
+                "description" : "Nems nature, crevette",
+                "price": 2.65,
+                "images": []
+            },{
+                "name": "Tortilla",
+                "description": "Tortilla du chef",
+                "price": 2.95,
+                "images": []
+            },{
+                "name": "Pizza",
+                "description": "Lardons-champigons / 3 fromages / Epinard-chèvre-PdT",
+                "price": 2.65,
+                "images": []
+            },{
+                "name": "3 Samossa",
+                "description": "Samossa au boeuf",
+                "price": 2.80,
+                "images": []
+            }]
+    },{
+        "category": "Desserts",
+        "id":3,
+        "choices": [{
+            "name": "GatO chOcO",
+            "description" : "Ze gateau au chocolat",
+            "price" : 3.20,
+            "images": []
+        }, {
+                "name": "Salade de fruits à la mangue",
+                "description": "Ze salade de fruits avec un coulis mangue",
+                "price": 2.90,
+                "images": []
+            },
+            {
+                "name": "Tiramisu sans alcool",
+                "description": "Ze tiramizu mais le patissier à bu l'amareto",
+                "price": 3.00,
+                "images": []
+            },
+            {
+                "name": "Yaourt nature",
+                "description": "Yaourt nature Bio",
+                "price": 1.25,
+                "images": []
+            },
+            {
+                "name": "Yaourt de lait de chèvre",
+                "description": "Yaourt nature au lait de chèvre Bio",
+                "price": 1.50,
+                "images": []
+            },
+            {
+                "name": "Yaourt aux fruits",
+                "description": "Yaourt aux fruits Bio",
+                "price": 1.70,
+                "images": []
+            },
+            {
+                "name": "Yaourt chocolat au soja",
+                "description": "Yaourt au soja arome chocolat Bio",
+                "price": 1.60,
+                "images": []
+            },
+            {
+                "name": "Gouda au pesto",
+                "description": "Gouda au pesto",
+                "price": 0.50,
+                "images": []
+            },
+            {
+                "name": "Tomme des pyrénées",
+                "description": "Tomme des pyrénées",
+                "price": 0.45,
+                "images": []
+            }]
 
     }
 ];
